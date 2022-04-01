@@ -1,0 +1,14 @@
+{
+  "name": "teste-trabalho",
+  "version": "1.0.0",
+  "main": "num.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
